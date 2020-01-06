@@ -1,3 +1,7 @@
+## Tutorial Config
+
+https://dev.to/thomlom/how-to-setup-eslint-and-prettier-for-your-react-apps-1n42
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
